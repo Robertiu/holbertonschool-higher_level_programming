@@ -1,3 +1,2 @@
-# SQL_introduction
-
-MySQL 8.0 introductory SQL scripts (Holberton).
+#SQL_introduction
+Basic SQL scripts for MySQL.
